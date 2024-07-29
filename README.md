@@ -1,6 +1,6 @@
 <!--  PROFILE VISIT COUNTER  -->
   <tr>
-  <p align="top"> <img src="https://komarev.com/ghpvc/?username=parvej-khan-dev&label=Profile%20views&color=36363b&style=flat" alt="parvejkhan" /></p>
+  <p align="top"> <img src="https://komarev.com/ghpvc/?username=mahesh-negi&label=Profile%20views&color=36363b&style=flat" alt="parvejkhan" /></p>
   </tr>
 
 <!--  PROFILE HEADER RHS IMAGE  -->
@@ -52,7 +52,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 </br>
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=parvej-khan-dev&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="parvej-khan-dev" width="100%" /> </p>
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahesh-negi&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="mahesh-negi" width="100%" /> </p>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -63,7 +63,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=parvej-khan-dev&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-negi&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -74,15 +74,15 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvej-khan-dev&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-negi&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### _**You can find me on:**_
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvej09/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvej-dev@proton.me)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/digitalparvej)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshnegi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnegi231999@gmail.com)
+
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
